@@ -2,7 +2,7 @@ from os import name
 import neo4j
 from neo4j import GraphDatabase, graph
 
-uri="neo4j://4d2c5f9e.databases.neo4j.io"
+uri="neo4j+s://4d2c5f9e.databases.neo4j.io"
 username ="neo4j"
 password ="HfG0vtu5bcvyX57PMKCkwZrQfsEGad4hbva5FVshQPk"
 
